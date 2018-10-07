@@ -10,3 +10,13 @@
 ## 文学
 
 ## 历史
+
+## 自我实现/励志
+* 成长
+	* 学会提问.[5星]—[豆瓣](https://book.douban.com/subject/20428922/)
+
+## 心理学
+* 人际沟通
+	* 非暴力沟通.[5星]—[豆瓣](https://book.douban.com/subject/3533221/)
+* 社会心理
+	* 影响力.[5星]—[豆瓣](https://book.douban.com/subject/1786387/) 
