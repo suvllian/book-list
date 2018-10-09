@@ -10,10 +10,13 @@
 ## 文学
 
 ## 历史
+* 中国史
+	* 万历十五年.[5星]—[豆瓣](https://book.douban.com/subject/25893465/)
 
 ## 自我实现/励志
 * 成长
 	* 学会提问.[5星]—[豆瓣](https://book.douban.com/subject/20428922/)
+	* 高效能人士的七个习惯.[5星]—[豆瓣](https://book.douban.com/subject/5325618/)
 
 ## 心理学
 * 人际沟通
