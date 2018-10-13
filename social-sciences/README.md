@@ -4,7 +4,6 @@
 * 领导力
 	* 哈佛商学院最受欢迎的领导课.[4星]—[读书笔记](./manage/哈佛商学院最受欢迎的领导课.md)—[豆瓣](https://book.douban.com/subject/20507208/)
 
-
 ## 经济
 
 ## 文学
@@ -22,4 +21,4 @@
 * 人际沟通
 	* 非暴力沟通.[5星]—[豆瓣](https://book.douban.com/subject/3533221/)
 * 社会心理
-	* 影响力.[5星]—[豆瓣](https://book.douban.com/subject/1786387/) 
+	* 影响力.[5星]—[读书笔记](./psychology/影响力.md)—[豆瓣](https://book.douban.com/subject/1786387/) 
