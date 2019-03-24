@@ -5,13 +5,16 @@
 	* 从0到1-开启商业与未来的秘密.[4星]-[豆瓣](https://book.douban.com/subject/26297606/)
 * 领导力
 	* 哈佛商学院最受欢迎的领导课.[4星]—[读书笔记](./manage/哈佛商学院最受欢迎的领导课.md)—[豆瓣](https://book.douban.com/subject/20507208/)
+	* 卓有成效的管理者
 
 ## 经济
 * 投资
-	* 投资中最简单的事.[4.5星]-[豆瓣](https://book.douban.com/subject/26163553/)
+	* 投资中最简单的事.[4星]—[读书笔记](https://mp.weixin.qq.com/s/2h27IwQyipJTLjdzmPB1tQ)-[豆瓣](https://book.douban.com/subject/26163553/)
 	* 投资中最重要的事
 	* 聪明的投资者
 	* 巴菲特致股东的信
+* 宏观经济
+	* 国富论
 
 ## 文学
 
@@ -23,10 +26,13 @@
 * 成长
 	* 学会提问.[5星]—[豆瓣](https://book.douban.com/subject/20428922/)
 	* 高效能人士的七个习惯.[5星]—[豆瓣](https://book.douban.com/subject/5325618/)
+	* 刻意练习
+	* 金字塔原理
 
 ## 心理学
 * 人际沟通
 	* 非暴力沟通.[5星]—[豆瓣](https://book.douban.com/subject/3533221/)
 	* 关键对话
+	* 亲密关系
 * 社会心理
 	* 影响力.[5星]—[读书笔记](./psychology/影响力.md)—[豆瓣](https://book.douban.com/subject/1786387/) 
