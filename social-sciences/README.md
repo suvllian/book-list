@@ -6,15 +6,19 @@
 * 领导力
 	* 哈佛商学院最受欢迎的领导课.[4星]—[读书笔记](./manage/哈佛商学院最受欢迎的领导课.md)—[豆瓣](https://book.douban.com/subject/20507208/)
 	* 卓有成效的管理者
+* 市场营销
+	* 增长黑客.[4星]-[豆瓣](https://book.douban.com/subject/26541801/)
 
 ## 经济
 * 投资
-	* 投资中最简单的事.[4星]—[读书笔记](https://mp.weixin.qq.com/s/2h27IwQyipJTLjdzmPB1tQ)-[豆瓣](https://book.douban.com/subject/26163553/)
+	* 投资中最简单的事.[4星]—[读书笔记](https://mp.weixin.qq.com/s/2h27IwQyipJTLjdzmPB1tQ)—[豆瓣](https://book.douban.com/subject/26163553/)
 	* 投资中最重要的事
 	* 聪明的投资者
 	* 巴菲特致股东的信
 * 宏观经济
 	* 国富论
+* 公司财务
+	* 一本书读懂财报.[5星]-[豆瓣](https://book.douban.com/subject/25926542/)	
 
 ## 文学
 
@@ -32,7 +36,7 @@
 ## 心理学
 * 人际沟通
 	* 非暴力沟通.[5星]—[豆瓣](https://book.douban.com/subject/3533221/)
-	* 关键对话
+	* 关键对话.[4星]-[豆瓣](https://book.douban.com/subject/10586741/)
 	* 亲密关系
 * 社会心理
 	* 影响力.[5星]—[读书笔记](./psychology/影响力.md)—[豆瓣](https://book.douban.com/subject/1786387/) 
