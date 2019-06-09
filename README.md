@@ -34,7 +34,8 @@
 * [沟通的艺术](https://mp.weixin.qq.com/s?__biz=MzIxNzQ4NzYxNA==&mid=2247483958&idx=1&sn=38a3168e27765e094fe35287a87ac22c&chksm=97f843a7a08fcab1e11a9bd472ed73fdd6fcce59bb1649d0ac4fd13ad6865a3efb318b9fa901&token=1246786314&lang=zh_CN#rd)
 
 ## 关于读书的思考 :notebook_with_decorative_cover:
-* 2018-10-9：[我的阅读经历](./reading-and-thinking/my-reading-experience.md)
+* 2018-10-9:[我的阅读经历](./reading-and-thinking/my-reading-experience.md)
+* 2019-6-9:[读书的意义](./reading-and-thinking/why-u-want-read.md)
 
 
 欢迎关注我的微信公众号：**瓦尔登湖畔一棵松**
