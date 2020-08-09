@@ -5,6 +5,12 @@
 
 我在这里整理了一些书单，以及我写过的一些读书笔记，与大家分享交流。[书籍分类标准参考](https://zhidao.baidu.com/question/25737511.html)
 
+## [技术](./technology) :blue_book:
+* 前端
+* 编程之道
+* 网站架构
+
+
 ## [哲学](./philosophy) :green_book:
 * 哲学
 * 宗教
@@ -19,8 +25,6 @@
 
 ## 自然科学 :closed_book:
 * 自然科学总论
-
-
 
 
 # 读书笔记及思考 :bookmark:
